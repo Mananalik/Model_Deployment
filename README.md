@@ -38,8 +38,8 @@ To set up and run this project on your local machine, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone <https://github.com/Mananalik/Model_Deployment>
+    cd <Model_Deployment>
     ```
 
 2.  **Create and activate the Conda environment:**
